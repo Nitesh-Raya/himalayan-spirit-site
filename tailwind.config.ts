@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Premium distillery colors
+				'amber-rich': 'hsl(var(--amber-rich))',
+				'amber-light': 'hsl(var(--amber-light))',
+				'brown-dark': 'hsl(var(--brown-dark))',
+				'cream': 'hsl(var(--cream))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
